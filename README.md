@@ -7,6 +7,7 @@
   <a href="http://isitmaintained.com/project/Knawat/Knawat-NPM-JavaScript-SDK">
     <img src="http://isitmaintained.com/badge/resolution/Knawat/Knawat-NPM-JavaScript-SDK.svg" alt="Average time to resolve an issue"/>
   </a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2FKnawat%2FKnawat-NPM-JavaScript-SDK?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2FKnawat%2FKnawat-NPM-JavaScript-SDK.svg?type=shield"/></a>
   <a href="http://isitmaintained.com/project/Knawat/Knawat-NPM-JavaScript-SDK">
     <img src="http://isitmaintained.com/badge/open/Knawat/Knawat-NPM-JavaScript-SDK.svg" alt="Percentage of issues still open"/>
   </a>
@@ -246,3 +247,7 @@ If you have a patch or have stumbled upon an issue with Knawat NPM Package, you 
 - [WooCommerce Dropshipping Plugin](https://github.com/Knawat/dropshipping-woocommerce)
 - [Magento 2 Module](https://github.com/Knawat/knawat-dropshipping-magento2)
 - [OpenCart Module](https://github.com/Knawat/knawat-dropshipping-opencart)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FKnawat%2FKnawat-NPM-JavaScript-SDK.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FKnawat%2FKnawat-NPM-JavaScript-SDK?ref=badge_large)
