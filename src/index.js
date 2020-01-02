@@ -7,6 +7,7 @@ import orders from './api/orders';
 import products from './api/products';
 import shipping from './api/shipping';
 import stores from './api/stores';
+import taxes from './api/taxes';
 
 KnawatMP._addToPrototype(categories);
 KnawatMP._addToPrototype(invoices);
@@ -16,5 +17,6 @@ KnawatMP._addToPrototype(orders);
 KnawatMP._addToPrototype(products);
 KnawatMP._addToPrototype(shipping);
 KnawatMP._addToPrototype(stores);
+KnawatMP._addToPrototype(taxes);
 
 module.exports = KnawatMP;
